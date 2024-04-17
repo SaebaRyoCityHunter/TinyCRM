@@ -14,3 +14,4 @@ class HomeTest extends WebTestCase
         $this->assertResponseStatusCodeSame(200);
     }
 }
+
